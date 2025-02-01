@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/ShadowPlayTes.unity
+    guid: b535eb89aca639c4791e7947a69ad72d
   m_configObjects: {}
